@@ -53,7 +53,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url('/images/photo_1_2023-09-26_11-41-26-removebg.png') , 
+    background: url('./images/photo_1_2023-09-26_11-41-26-removebg.png') , 
     linear-gradient(to right,#CAF0F8,#ADE8F4,#90E0EF,#48CAE4,#00B4D8,#0096C7,#0077B6,#023E8A,#03045E);
     background-size: contain;
     background-position: 80% center;
